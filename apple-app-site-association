@@ -12,6 +12,11 @@
         {
         "appID":"5LE7A8CF65.com.yamaha.music.enspire",
         "paths": ["*"]
+        },
+        ,
+        {
+        "appID":"3QSVF5VKCK.com.yamaha.dkv.enspire",
+        "paths": ["*"]
         }]
     }
 }
